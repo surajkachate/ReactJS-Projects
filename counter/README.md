@@ -1,3 +1,6 @@
+## Counter Website
+![image](https://github.com/surajkachate/Simple-Project-Templates-in-React/assets/89270012/46ec909a-f12f-4f82-9c36-458a8cde7ecc)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
