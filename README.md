@@ -7,6 +7,9 @@
 ## Plan with Suraj Website
 ![image](https://github.com/surajkachate/Simple-Project-Templates-in-React/assets/89270012/ef200d4b-dac5-4ccf-adf7-c56e3929ea2e)
 
+## Restaurent Menu Website
+![image](https://github.com/surajkachate/Simple-Project-Templates-in-React/assets/89270012/da63c700-194f-4506-b1bb-1e22567b3353)
+
 ## Weather App Website
 ![image](https://github.com/surajkachate/Simple-Project-Templates-in-React/assets/89270012/836df7cd-15c9-4c9c-be13-90fd3c567be5)
 
