@@ -1,3 +1,9 @@
+## Plan with Suraj Website
+![image](https://github.com/surajkachate/Simple-Project-Templates-in-React/assets/89270012/ef200d4b-dac5-4ccf-adf7-c56e3929ea2e)
+
+## Counter-2 Website
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
