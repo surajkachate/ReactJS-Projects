@@ -1,3 +1,6 @@
+## Counter-2 Website
+![image](https://github.com/surajkachate/Simple-Project-Templates-in-React/assets/89270012/ecc78da9-cbe7-42da-a73f-015e4b044acc)
+
 # React & Tailwind CSS Starter Pack
 
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.

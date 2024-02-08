@@ -1,3 +1,6 @@
+## Weather App Website
+![image](https://github.com/surajkachate/Simple-Project-Templates-in-React/assets/89270012/836df7cd-15c9-4c9c-be13-90fd3c567be5)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
