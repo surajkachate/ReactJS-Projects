@@ -1,3 +1,6 @@
+## Restaurent Menu Website
+![image](https://github.com/surajkachate/Simple-Project-Templates-in-React/assets/89270012/da63c700-194f-4506-b1bb-1e22567b3353)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
