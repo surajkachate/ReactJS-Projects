@@ -1,8 +1,11 @@
+## Counter-2 Website
+![image](https://github.com/surajkachate/Simple-Project-Templates-in-React/assets/89270012/ecc78da9-cbe7-42da-a73f-015e4b044acc)
+
 ## Plan with Suraj Website
 ![image](https://github.com/surajkachate/Simple-Project-Templates-in-React/assets/89270012/ef200d4b-dac5-4ccf-adf7-c56e3929ea2e)
 
-## Counter-2 Website
-![image](https://github.com/surajkachate/Simple-Project-Templates-in-React/assets/89270012/ecc78da9-cbe7-42da-a73f-015e4b044acc)
+## Weather App Website
+![image](https://github.com/surajkachate/Simple-Project-Templates-in-React/assets/89270012/836df7cd-15c9-4c9c-be13-90fd3c567be5)
 
 
 # Getting Started with Create React App
